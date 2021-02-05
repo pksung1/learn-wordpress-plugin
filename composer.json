@@ -1,0 +1,17 @@
+{
+    "name": "seonpark/learn-wordpress-plugin",
+    "description": "awsome starter plugin example",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "seonpark",
+            "email": "pksung1@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}
